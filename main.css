@@ -1,4 +1,181 @@
-body{ 
-	background-color: white;
+body{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Sans-Serif;
+	font-size: 20px;
+}
+
+.logo {
+    height: 75px;
+    padding: 0px;
+    float: left;
+    position: absolute;
+    margin: 20px 20px 20px 5px;
+    border-radius: 5px;
+}
+
+#header-name{
+  float: right;
+  margin: 20px 20px 20px 150px;
+  position: relative;
+  font-size: 30px;
  }
+
+#banner{
+  width:1000px;
+  height: 150px;
+  background-color: blue;
+}
+
+#header-name{
+  float: left;
+  position: relative;
+}
+
+#search{
+  float: right;
+  text-align: left;
+  position: relative;
+  margin: 5px 10px 0px 5px;
+  font-size: 20px;
+}
+
+
+#mainNav{
+  float: right;
+  padding: 5px 0px 0px 600px;
+  text-align: center;
+  position: relative;
+  font-size: 25px;
+}
+
+#storeFront{
+  width: 100%;
+  height: 605px;
+}
+
+#shop {
+	width: 100%;
+	background-color: #333333;
+	position: relative;
+	
+}
+
+.iceCream {
+	background: url("img/cannoli-ice-cream8+srgb..jpg") center top no-repeat;
+	width: 33%;
+	height: 200px;
+	float: left;
+	text-align: center;
+	font-size: 40px;
+	position: relative;
+	margin: 0px 1px 1px 0px;
+	border-radius: 5px;
+}
+
+
+.cakesCookies {
+	background: url("img/raspberry-lemonade-cupcakes.jpg") center center no-repeat;
+	width: 33%;
+	height: 200px;
+	float: left;
+	text-align: center;
+	font-size: 40px;
+	position: relative;
+	margin: 0px 1px 1px 1px;
+ 	border-radius: 5px;
+}
+
+.drinks {
+	background: url("img/strawberry-colada-smoothies3-srgb..jpg") center center no-repeat;
+	width: 33%;
+	height: 200px;
+	float: left;
+	text-align: center;
+	font-size: 40px;
+	position: relative;
+	margin: 0px 0px 1px 1px;
+	border-radius: 5px;
+}
+
+.pieCheeseCake {
+	background: url("img/oreo-cheesecake-4.jpg") center center no-repeat;
+	width: 33%;
+	height: 200px;
+	float: left;
+	text-align: center;
+	font-size: 40px;
+	position: relative;
+	margin: 0px 0px 1px 1px;
+	border-radius: 5px;
+}
+
+.soup {
+	background: url("img/6_ingredient_tomato_soup3.jpg") center center no-repeat;
+	width: 33%;
+	height: 200px;
+	float: left;
+	text-align: center;
+	font-size: 40px;
+	position: relative;
+	margin: 0px 1px 1px 1px;
+	border-radius: 5px;
+}
+
+.breakfast {
+	background: url("img/blueberry_cheesecake_protein_breakfast_shake6..jpg") center center no-repeat;
+	width: 33%;
+	height: 200px;
+	float: left;
+	text-align: center;
+	font-size: 40px;
+	position: relative;
+	margin: 0px 0px 1px 1px;
+	border-radius: 5px;
+}
+
+#endBlock > p {
+  text-align: center;
+  width: 100%;
+  position: relative;
+}
+
+#copyRight {
+	position: relative;
+	color: red;
+
+}
+
+#endNav > a {
+  float: right;
+  padding: 0px 0px 50px 0px;
+  text-align: center;
+  position: relative;
+}
+
+.merchBtn {
+	border-radius: 5px;
+	width: 150px;
+	border: 3px solid;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	color: #333333;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 10px 20px 10px 20px;
+	background-color: rgba(255, 255, 255, 0.4); 
+	transition: all 0.3s ease;
+	position: relative;
+	top: 40%
+}
+
+#button {
+	font-size: 25px;
+	color: orange;
+	background-color: green;
+	float: right;
+	margin: 5px 5px 5px 5px;
+}
 

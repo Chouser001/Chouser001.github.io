@@ -1,0 +1,47 @@
+body {
+background-image: url("http://www.acousticmagazine.com/wp-content/uploads/sites/5/2015/04/217269-111126-rev-hall-oates.jpg");
+
+}
+
+
+#caintainer {
+	width: 100%;
+	padding: 0px;
+	border: : solid pink;
+}
+#wrapper {
+	width: 60%;
+	height: 500px;
+	margin: 0 auto;
+	background-color: #EEE;
+	text-align: center;
+	padding: 0px;
+}
+
+li {
+	list-style: none;
+	color: black;
+}
+li:nth-child(even){	
+	background-color: #DDD;
+	font-size: 30px;
+	background-image: 
+}
+
+li:nth-child(odd){
+	background-color: #EEE;
+	font-size: 25px;
+		
+}
+
+#song-list li:nth-child(odd){
+	background-color: #EEE;
+}
+
+#song{
+	font-size: 25px;
+}
+
+#container{
+	bac
+}

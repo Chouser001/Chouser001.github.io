@@ -43,10 +43,10 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #F05F40;
+  background-color: #626883;
 }
 .bg-dark {
-  background-color: #222222;
+  background-color: #626883;
   color: white;
 }
 .text-faded {
@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('../img/colorado-mountain-wallpaper-images.jpg');
   text-align: center;
   color: white;
 }

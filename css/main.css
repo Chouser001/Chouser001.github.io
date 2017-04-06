@@ -1,0 +1,19 @@
+#newProject {
+	background-color: #4ABDAC;
+	width: auto;
+}
+
+
+
+#newProjectText{
+		color: #FFFFFF;
+}
+
+#exampleApp {
+	text-align: left;
+}
+
+#something {
+	width: 150% !important;
+	margin-left: -25%;
+}
